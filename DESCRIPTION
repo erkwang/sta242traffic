@@ -1,0 +1,10 @@
+Package: ricktraffic
+Version: 0.0-1
+Date: 2013-01-29
+Title: Traffice Flow Simulation on a Grid
+Author: Rick Wang
+Maintainer: Rick Wang <erkwang@ucdavis.edu>
+Depends: R (>= 2.15.2)
+Description: This package contains functions to simulate fixed direction traffic flow with red and blue cars 
+on a given grid
+License: GPL (>= 2)
